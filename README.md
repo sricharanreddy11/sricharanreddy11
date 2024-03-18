@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ developing from 3 months<br>📚 I'm currently learning JavaScript,  ReactJS</p>
+<p align="left">✨ Working as a developer from 3 months<br>📚 I'm currently learning JavaScript,  ReactJS</p>
 
 ###
 
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="left">
-  <a href="sricharanteegala@gmail.com" target="_blank">
+  <a href="mailto:sricharanteegala@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/sricharanreddy11/" target="_blank">
