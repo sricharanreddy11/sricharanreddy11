@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ Working as a developer from 3 months<br>📚 I'm currently learning JavaScript,  ReactJS</p>
+<p align="left">✨ Working as a developer from 6 months<br>📚 I'm currently learning JavaScript,  ReactJS, Angular</p>
 
 ###
 
@@ -42,6 +42,8 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://icons8.com/icon/vMqgHSToxrJR/typescript" height="40" alt="javascript logo"  />
 </div>
 
 ###
